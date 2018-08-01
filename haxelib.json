@@ -1,5 +1,5 @@
 {
-    "name": "documentdb-js",
+    "name": "documentdb-js-extern",
     "url": "https://github.com/DenkiYagi/haxe-extern-documentdb",
     "description": "Extern definitions for Azure Cosmos DB Node.js SDK",
     "license": "Apache",
