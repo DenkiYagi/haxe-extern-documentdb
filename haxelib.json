@@ -1,0 +1,15 @@
+{
+    "name": "uws",
+    "url": "https://github.com/DenkiYagi/haxe-extern-documentdb",
+    "description": "Extern definitions for Azure Cosmos DB Node.js SDK",
+    "license": "Apache",
+    "version": "1.14.0",
+    "releasenote": "",
+    "classPath": "src",
+    "contributors": ["terurou"],
+    "tags": ["js", "nodejs", "azure", "cosmosdb", "documentdb", "extern"],
+    "dependencies": {
+        "externtype": "1.0.3",
+        "hxnodejs": ""
+    }
+}
